@@ -13,5 +13,5 @@ Chart of the total fares by City Type for the months of January through May 2019
 
 ## Summary
 The data clearly shows that demand varies according to the city type. Urban cities have a higher demand for rides, resulting in more drivers. With there being a larger ride count, ride fares are lower in urban cities due to the demand. Rural cities have the least ride count, showing that the demand for a ride is less. Rural cities have the least amount of drivers but the ride fare is the highest. Suburban cities come in at the middle showing that the demand is neither high nor low.
-Recommendations:
+### Recommendations:
 * Drivers should charge a surcharge during peak hours in the urban areas as well as charging more per mile. Peak hours are usually during rush hour which can result in sitting in traffic, or longer driving times. Charging a surcharge and having a higher charge per mile can help drivers earn more per fare.
